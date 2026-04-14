@@ -26,5 +26,3 @@ Atualmente estou estudando e praticando com **HTML, CSS, JavaScript**
 
 ---
 [![](https://komarev.com/ghpvc/?username=leonmoreira88-byte&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> coloque uma parte Sobre eu gossto de frontend e o resto das coisas sobre mim 
