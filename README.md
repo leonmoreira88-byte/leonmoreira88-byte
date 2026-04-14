@@ -3,13 +3,12 @@
 Sou um desenvolvedor em evolução, apaixonado por tecnologia e focado principalmente em **Front-end**. Gosto de transformar ideias em interfaces modernas, responsivas e bem estruturadas, sempre buscando unir **design clean + funcionalidade**.
 
 Atualmente estou estudando e praticando com **HTML, CSS, JavaScript**
-
-Estou sempre buscando evoluir, aprender novas tecnologias e criar projetos que realmente façam diferença. "Você é o improvavel"
+🚀 Estou sempre buscando evoluir, aprender novas tecnologias e criar projetos que realmente façam diferença.
 
 💡 Interesses:
 - Desenvolvimento Web (Front-end)
 - Projetos com Arduino e tecnologia
-- Automação 
+- Automaçã
 
 📈 Objetivo: Me tornar um desenvolvedor completo e começar a trabalhar com projetos reais como freelancer.
 ## 🌐 Socials:
@@ -28,4 +27,4 @@ Estou sempre buscando evoluir, aprender novas tecnologias e criar projetos que r
 ---
 [![](https://komarev.com/ghpvc/?username=leonmoreira88-byte&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> coloque uma parte Sobre eu gossto de frontend e o resto das coisas sobre mim 
