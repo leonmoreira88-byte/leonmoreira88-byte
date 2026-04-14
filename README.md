@@ -1,14 +1,9 @@
-## 👨‍💻 Sobre mim
-
-Sou um desenvolvedor em evolução, apaixonado por tecnologia e focado principalmente em **Front-end**. Gosto de transformar ideias em interfaces modernas, responsivas e bem estruturadas, sempre buscando unir **design clean + funcionalidade**.
-
-Atualmente estou estudando e praticando com **HTML, CSS, JavaScript**
-🚀 Estou sempre buscando evoluir, aprender novas tecnologias e criar projetos que realmente façam diferença.
-
-💡 Interesses:
+**Ola pessoal!!**
+Me chamo Leon, sou um programador em aprendizado que quer evoluir cada vez mais. Sempre gostei de tecnologia e estou sempre tentando aprender coisas novas e melhorar no que faço.
+ Interesses:
 - Desenvolvimento Web (Front-end)
 - Projetos com Arduino e tecnologia
-- Automaçã
+- Automação
 
 📈 Objetivo: Me tornar um desenvolvedor completo e começar a trabalhar com projetos reais como freelancer.
 ## 🌐 Socials:
