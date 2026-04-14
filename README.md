@@ -1,4 +1,17 @@
+## 👨‍💻 Sobre mim
 
+Sou um desenvolvedor em evolução, apaixonado por tecnologia e focado principalmente em **Front-end**. Gosto de transformar ideias em interfaces modernas, responsivas e bem estruturadas, sempre buscando unir **design clean + funcionalidade**.
+
+Atualmente estou estudando e praticando com **HTML, CSS, JavaScript**
+
+Estou sempre buscando evoluir, aprender novas tecnologias e criar projetos que realmente façam diferença. "Você é o improvavel"
+
+💡 Interesses:
+- Desenvolvimento Web (Front-end)
+- Projetos com Arduino e tecnologia
+- Automação 
+
+📈 Objetivo: Me tornar um desenvolvedor completo e começar a trabalhar com projetos reais como freelancer.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6shbyXaz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lleon_moreira._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leonmoreira88@gmail.com) 
 
